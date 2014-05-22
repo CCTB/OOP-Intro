@@ -8,8 +8,6 @@ namespace HelloOOP
 {
     public class Greeter
     {
-        #region Fields and Properties
-        // traditional Field + Property combination
         private string _GreetingMessage;
         public string GreetingMessage
         {
@@ -23,19 +21,14 @@ namespace HelloOOP
             }
         }
 
-        // Auto-implemented Property (field as a "backing store" is "auto-generated")
         public string FarewellMessage { get; private set; }
-        #endregion
 
-        #region Constructors
         public Greeter(string greeting, string farewell)
         {
             GreetingMessage = greeting;
             FarewellMessage = farewell;
         }
-        #endregion
 
-        #region Methods
         public string SayGreeting(string name)
         {
             return name + ", " + GreetingMessage;
@@ -55,6 +48,5 @@ namespace HelloOOP
         {
             return FarewellMessage;
         }
-        #endregion
     }
 }
