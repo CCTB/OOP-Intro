@@ -1,0 +1,6 @@
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\bin\Debug\HelloOOP.exe.config
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\bin\Debug\HelloOOP.exe
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\bin\Debug\HelloOOP.pdb
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\obj\Debug\HelloOOP.csprojResolveAssemblyReference.cache
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\obj\Debug\HelloOOP.exe
+C:\Users\WB122\Documents\GitHub\OOP-Intro\Hello World\HelloOOP\obj\Debug\HelloOOP.pdb
